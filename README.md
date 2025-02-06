@@ -1,1 +1,1 @@
-Visit my portflio website: [https://github.com/davroni98/my-portfolio-2025.git]
+Visit my portflio website: [https://davroni98.github.io/my-portfolio-2025/]
